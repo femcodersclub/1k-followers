@@ -1,0 +1,47 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: #000;
+}
+
+#fireworks-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Evita que los fuegos artificiales interfieran con otros elementos */
+}
+
+.firework {
+    position: absolute;
+    width: 4px; /* Tamaño más pequeño para los fuegos artificiales */
+    height: 4px; /* Tamaño más pequeño para los fuegos artificiales */
+    background-color: #fff;
+    border-radius: 50%;
+    animation: fireworks 1s linear infinite;
+}
+
+@keyframes fireworks {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-500px) rotate(720deg); /* Reducir la distancia de la animación */
+        opacity: 0;
+    }
+}
+
+.message-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.message-container p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
