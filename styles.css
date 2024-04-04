@@ -142,3 +142,16 @@ html {
     border-right-color: rgba(255, 255, 255, 0.75);
   }
 }
+
+@media screen and (max-width: 577px){
+	#typing-text {
+    inline-size: 318px;
+		overflow-wrap: break-word;
+    font-size: 1rem;
+  }
+
+  .message-container {
+    top: 50%;
+    left: 50%;
+  }
+}
