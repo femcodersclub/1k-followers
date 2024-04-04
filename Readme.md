@@ -64,6 +64,15 @@ git clone https://github.com/femcodersclub/1k-followers.git
 
 Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es apropiado. ¡Gracias por tu contribución!
 
+### 👭 Nuestro equipo
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="URL_IMAGEN_1" alt="femCoders Club" width="100px">
+    <img src="URL_IMAGEN_2" alt="Elvia Benedith" width="100px">
+    <img src="URL_IMAGEN_3" alt="Irina Ichim" width="100px">
+</div>
+
+
 ## 🙏 Agradecimientos
 
 Queremos expresar nuestro más sincero agradecimiento a todas las personas que han apoyado este proyecto y a nuestra comunidad de seguidores en LinkedIn. ¡Vuestra participación y entusiasmo nos impulsan a seguir adelante y a mejorar cada día! Gracias por ser parte de nuestro viaje en femCoders Club.
