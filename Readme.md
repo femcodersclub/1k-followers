@@ -65,4 +65,10 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
 
 ### 👭 Nuestro equipo
 
-| ![femCoders Club](https://avatars.githubusercontent.com/u/158848998?v=4) | ![Elvia Benedith](https://avatars.githubusercontent.com/u/116598037?v=4) | ![Irina Ichim](https://avatars.githubusercontent.com/u/126028195?v=4) |
+![femCoders Club](https://avatars.githubusercontent.com/u/158848998?v=4 "femCoders Club")
+![Elvia Benedith](https://avatars.githubusercontent.com/u/116598037?v=4 "Elvia Benedith")
+![Irina Ichim](https://avatars.githubusercontent.com/u/126028195?v=4 "Irina Ichim")
+
+### 🙏 Agradecimientos
+
+Queremos expresar nuestro más sincero agradecimiento a todas las personas que han apoyado este proyecto y a nuestra comunidad de seguidores en LinkedIn. ¡Vuestra participación y entusiasmo nos impulsan a seguir adelante y a mejorar cada día! Gracias por ser parte de nuestro viaje en femCoders Club.
