@@ -2,8 +2,7 @@
 
 ## 🎥 Video de Demostración
 
-[![Video de Demostración](src="/img/FemCodersClubGif.gif")
-
+![GIF de Demostración](/img/FemCodersClubGif.gif)
 
 ¡Bienvenida al proyecto de celebración del FemCoders Club por alcanzar 1000 seguidores en [LinkedIn](https://www.linkedin.com/company/fem-coders-club/)! En este proyecto, hemos creado una experiencia interactiva para agradecer a nuestra comunidad por su apoyo.
 
