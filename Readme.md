@@ -38,18 +38,15 @@ git clone https://github.com/femcodersclub/1k-followers.git
 
 ### JavaScript
 
-#### 🎨 Canvas y Animación de Fuegos Artificiales
+#### 🎨 Efectos Visuales y Animaciones
 
-- **HTML5 Canvas:** Utilizamos el elemento canvas de HTML5 junto con JavaScript para crear una animación de fuegos artificiales dinámica y atractiva en la página de celebración.
-- **Animación con JavaScript:** Implementamos la lógica para generar fuegos artificiales y partículas en el canvas utilizando JavaScript. Esto incluye el uso de clases y métodos para controlar el comportamiento de los fuegos artificiales y las partículas durante la animación.
+Efecto de Fondo: Hemos creado un efecto visual para el fondo de la página utilizando CSS y JavaScript. Este efecto consiste en una serie de partículas de colores que se mueven de forma dinámica en la pantalla, agregando un toque vibrante y festivo a la experiencia de usuario.
+
+Animación del Texto: Implementamos una animación para el mensaje de agradecimiento utilizando CSS y JavaScript. Esta animación simula el efecto de escritura a máquina, donde cada letra del mensaje aparece gradualmente con un color alternativo, creando un efecto llamativo y cautivador.
 
 #### 📝 Fuentes de Texto
 
-- [Fuentes de Google](https://fonts.google.com/): Utilizamos la fuente "Lobster Two" para estilizar el texto y darle un aspecto elegante y legible.
-
-#### 🎨 Inspiración para la Animación
-
-- [Canva](https://www.canva.com/): Nos inspiramos en las animaciones de latido de Canva para crear el efecto de latido del logo y el mensaje de agradecimiento en nuestra página de celebración.
+- [Fuentes de Google](https://fonts.google.com/): Utilizamos la fuente "Pacifico" para estilizar el texto y darle un aspecto elegante y legible.
 
 ## 🙌 Contribución
 
@@ -70,7 +67,6 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
     <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Elvia Benedith" alt="Elvia Benedith" width="100px">
     <img src="https://avatars.githubusercontent.com/u/126028195?v=4" alt="Irina Ichim" width="100px">
 </div>
-
 
 ## 🙏 Agradecimientos
 
