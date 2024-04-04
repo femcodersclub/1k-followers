@@ -2,9 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   setTimeout(function () {
     createFireworks();
     typeWriterEffect("¡Gracias por ser parte de nuestros 1000 seguidores!", [
-      "#4737BB",
       "#FFFFFF",
-      "#FF5A02",
     ]);
   }, 1000);
 });
