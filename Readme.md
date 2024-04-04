@@ -1,11 +1,15 @@
 # 🎉 FemCoders Club - Agradecimiento por 1000 seguidores 🎉
 
+## 🎥 Video de Demostración
+
+[![Video de Demostración](src="/img/1kFemCodersClub.gif")
+
+
 ¡Bienvenida al proyecto de celebración del FemCoders Club por alcanzar 1000 seguidores en [LinkedIn](https://www.linkedin.com/company/fem-coders-club/)! En este proyecto, hemos creado una experiencia interactiva para agradecer a nuestra comunidad por su apoyo.
 
 ## 📝 Contenido
 
 - [📄 Descripción](#descripción)
-- [🎥 Demostración](#demostración)
 - [🛠️ Instrucciones de Uso](#instrucciones-de-uso)
 - [🛠️ Recursos Utilizados](#recursos-utilizados)
 - [🙌 Contribución](#contribución)
@@ -13,10 +17,6 @@
 ## 📄 Descripción
 
 Este proyecto consiste en una página web interactiva que celebra el logro del FemCoders Club al alcanzar 1000 seguidores en las redes sociales. La página incluye una animación de fuegos artificiales, un mensaje de agradecimiento y el logo del FemCoders Club.
-
-## 🎥 Demostración
-
-[Insertar aquí enlace a la demostración o capturas de pantalla del proyecto]
 
 ## 🛠️ Instrucciones de Uso
 
@@ -69,7 +69,7 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
 <div style="display: flex; justify-content: space-between;">
     <img src="https://avatars.githubusercontent.com/u/158848998?v=4" alt="femCoders Club" width="100px">
     <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Elvia Benedith" alt="Elvia Benedith" width="100px">
-    <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Irina Ichim" width="100px">
+    <img src="https://avatars.githubusercontent.com/u/126028195?v=4" alt="Irina Ichim" width="100px">
 </div>
 
 
