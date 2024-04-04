@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Pacifico&display=swap");
+
 body,
 html {
   margin: 0;
@@ -5,6 +7,10 @@ html {
   height: 100%;
   overflow: hidden;
   background-color: #000;
+
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 #fireworks-container {
