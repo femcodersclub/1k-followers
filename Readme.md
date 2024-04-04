@@ -67,9 +67,9 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
 ### 👭 Nuestro equipo
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="URL_IMAGEN_1" alt="femCoders Club" width="100px">
-    <img src="URL_IMAGEN_2" alt="Elvia Benedith" width="100px">
-    <img src="URL_IMAGEN_3" alt="Irina Ichim" width="100px">
+    <img src="https://avatars.githubusercontent.com/u/158848998?v=4" alt="femCoders Club" width="100px">
+    <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Elvia Benedith" alt="Elvia Benedith" width="100px">
+    <img src="https://avatars.githubusercontent.com/u/116598037?v=4" alt="Irina Ichim" width="100px">
 </div>
 
 
