@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     createFireworks();
     typeWriterEffect("¡Gracias por ser parte de nuestros 1000 seguidores!", [
       "#FFFFFF",
+      "#fdfeff"
     ]);
   }, 1000);
 });
