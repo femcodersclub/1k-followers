@@ -1,47 +1,139 @@
-body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow: hidden;
-    background-color: #000;
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  background-color: #000;
 }
 
 #fireworks-container {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    pointer-events: none; /* Evita que los fuegos artificiales interfieran con otros elementos */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
 }
 
 .firework {
-    position: absolute;
-    width: 4px; /* Tamaño más pequeño para los fuegos artificiales */
-    height: 4px; /* Tamaño más pequeño para los fuegos artificiales */
-    background-color: #fff;
-    border-radius: 50%;
-    animation: fireworks 1s linear infinite;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  animation: fireworks 1s linear infinite;
 }
 
 @keyframes fireworks {
-    0% {
-        opacity: 1;
-    }
-    100% {
-        transform: translateY(-500px) rotate(720deg); /* Reducir la distancia de la animación */
-        opacity: 0;
-    }
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0);
+  }
 }
 
 .message-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.message-container img {
+  width: 100px;
+  height: auto;
+  margin-bottom: 20px;
 }
 
 .message-container p {
-    font-size: 24px;
-    font-weight: bold;
-    color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.orange {
+  background-color: #ff8533;
+}
+.yellow {
+  background-color: #ffff33;
+}
+.green {
+  background-color: #33ff57;
+}
+.blue {
+  background-color: #33a2ff;
+}
+.purple {
+  background-color: #7f33ff;
+}
+.red {
+  background-color: #ff5733;
+}
+.indigo {
+  background-color: #4737bb;
+}
+.cyan {
+  background-color: #00ffff;
+}
+.magenta {
+  background-color: #ff00ff;
+}
+.turquoise {
+  background-color: #40e0d0;
+}
+.pink {
+  background-color: #ffc0cb;
+}
+.lime {
+  background-color: #00ff00;
+}
+
+/* Nuevos colores */
+#3E3990 {
+  background-color: #3e3990;
+}
+#3F3B8A {
+  background-color: #3f3b8a;
+}
+#E96E21 {
+  background-color: #e96e21;
+}
+#D06431 {
+  background-color: #d06431;
+}
+#FDFEFF {
+  background-color: #fdfeff;
+}
+#E56F2D {
+  background-color: #e56f2d;
+}
+#B5B2D3 {
+  background-color: #b5b2d3;
+}
+#645F95 {
+  background-color: #645f95;
+}
+
+#typing-text {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid white;
+  animation: typing-cursor 1s infinite;
+}
+
+@keyframes typing-cursor {
+  0% {
+    border-right-color: rgba(255, 255, 255, 0.75);
+  }
+  50% {
+    border-right-color: transparent;
+  }
+  100% {
+    border-right-color: rgba(255, 255, 255, 0.75);
+  }
 }
