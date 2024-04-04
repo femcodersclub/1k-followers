@@ -65,4 +65,4 @@ Una vez enviado, revisaremos tu solicitud y la integraremos en el proyecto si es
 
 ### 👭 Nuestro equipo
 
-| ![femCoders Club](https://github.com/femcodersclub) | ![Elvia Benedith](https://github.com/ElviaBth) | ![Irina Ichim](https://github.com/Irina-Ichim) |
+| ![femCoders Club](https://avatars.githubusercontent.com/u/158848998?v=4) | ![Elvia Benedith](https://avatars.githubusercontent.com/u/116598037?v=4) | ![Irina Ichim](https://avatars.githubusercontent.com/u/126028195?v=4) |
