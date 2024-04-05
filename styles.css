@@ -145,7 +145,7 @@ html {
 
 @media screen and (max-width: 577px){
 	#typing-text {
-    inline-size: 318px;
+    inline-size: 320px;
 		overflow-wrap: break-word;
     font-size: 1rem;
   }
